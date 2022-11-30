@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("%%d");
-getch();
+printf("\"%%d\"");
 return 0;
 
 }

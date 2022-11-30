@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf(" \"ineuron student\"");
-getch();
+printf(" \"Hello , Amit Kumar\"");
 return 0;
 
 }
